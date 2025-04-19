@@ -1,0 +1,21 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+**/logs/
+**/*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Database files (if using SQLite or local DB dumps)
+*.h2.db
+*.mv.db
+
+# Secrets (Optional)
+application.properties
+application.yml
